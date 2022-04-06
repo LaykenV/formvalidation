@@ -40,3 +40,7 @@ span {
 .showing {
     display: block;
 }
+
+.gtg {
+    border: solid green 4px;
+}
