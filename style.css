@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border: solid black 3px;
+    padding: 15px;
+}
+
+label {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+input {
+    width: 70%;
+}
+
+span {
+    width: 70%;
+    border: solid red 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    display: none;
+}
+
+.showing {
+    display: block;
+}
