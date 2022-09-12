@@ -1,1 +1,1 @@
-Setting up form validation through JS on a simple form.
+Setting up form validation through JS on a simple form
